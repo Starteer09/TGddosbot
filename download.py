@@ -1,4 +1,6 @@
+# -*- coding: utf-8 -*-
+
 import os
-print("Загрузка модулей не останавливайте код")
+print("carregar modulos nao para o codigo")
 os.system("pip install pyTelegramBotAPI")
 os.system("pip install DDos")
