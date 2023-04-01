@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+
+
 # Импотируем модули
 import DDos
 import telebot
